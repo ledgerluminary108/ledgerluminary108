@@ -19,7 +19,7 @@
 <!-- <a href="https://www.linkedin.com/in/vedant-chainani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
 
 <a href="mailto:ledgerluminary55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://t.me/ledgerluminary98"><img src="https://img.shields.io/badge/Telegram-0099FF?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"></a>
+<a href="https://t.me/ledgerluminary55"><img src="https://img.shields.io/badge/Telegram-0099FF?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"></a>
 <a href="https://discordapp.com/users/354627673894682624"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" ></a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
