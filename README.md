@@ -1,5 +1,5 @@
 <!-- ![Visitor Count](https://profile-counter.glitch.me/Envoy-VC/count.svg) -->
-<h1 align="center">Hello, I am Full-Stack Blockckhain developer and Smart Contract Security Auditor</h1>
+<h1 align="center">Hello, I am Full-Stack Blockckhain developer</h1>
 <div style="text-align: right">
 </div>
 
